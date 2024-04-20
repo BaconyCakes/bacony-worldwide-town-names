@@ -32,10 +32,100 @@ mainset:
     probability: 200
   - name: Astana
     probability: 200
-  - name: Asunci�n
+  - name: Asunción
     probability: 200
   - name: Athens
     probability: 200
+ 	- name:	Baghdad
+ 	  probability: 200
+ 	- name:	Baku
+ 	  probability: 200
+ 	- name:	Bamako
+ 	  probability: 200
+ 	- name:	Bandar Seri Begawan
+ 	  probability: 200
+ 	- name:	Bangkok
+ 	  probability: 200
+ 	- name:	Bangui
+ 	  probability: 200
+ 	- name:	Banjul
+ 	  probability: 200
+ 	- name:	Bantam Village
+ 	  probability: 200
+ 	- name:	Basse-Terre
+ 	  probability: 200	
+ 	- name:	Basseterre
+ 	  probability: 200	
+ 	- name:	Beijing
+ 	  probability: 200	
+ 	- name:	Beirut
+ 	  probability: 200	
+ 	- name:	Belgrade
+ 	  probability: 200	
+ 	- name:	Belmopan
+ 	  probability: 200	
+ 	- name:	Berlin
+ 	  probability: 200	
+ 	- name:	Bern
+ 	  probability: 200	
+ 	- name:	Bishkek
+ 	  probability: 200	
+ 	- name:	Bissau
+ 	  probability: 200	
+ 	- name:	Bloemfontein
+ 	  probability: 200	
+ 	- name:	Bogotá
+ 	  probability: 200	
+ 	- name:	Brades
+ 	  probability: 200	
+ 	- name:	Brasília
+ 	  probability: 200	
+ 	- name:	Bratislava
+ 	  probability: 200	
+ 	- name:	Brazzaville
+ 	  probability: 200	
+ 	- name:	Bridgetown
+ 	  probability: 200	
+ 	- name:	Brussels
+ 	  probability: 200	
+ 	- name:	Bucharest
+ 	  probability: 200	
+ 	- name:	Budapest
+ 	  probability: 200	
+ 	- name:	Buenos Aires
+ 	  probability: 200	
+ 	- name:	Cairo
+ 	  probability: 200	
+ 	- name:	Canberra
+ 	  probability: 200	
+ 	- name:	Cape Town
+ 	  probability: 200	
+ 	- name:	Capitol Hill
+ 	  probability: 200	
+ 	- name:	Caracas
+ 	  probability: 200	
+ 	- name:	Castries
+ 	  probability: 200	
+ 	- name:	Cayenne
+ 	  probability: 200	
+ 	- name:	Charlotte Amalie
+ 	  probability: 200	
+ 	- name:	Chișinău
+ 	  probability: 200	
+ 	- name:	City of Monaco
+ 	  probability: 200	
+ 	- name:	Cockburn Town
+ 	  probability: 200	
+ 	- name:	Colombo
+ 	  probability: 200	
+ 	- name:	Comayagüela
+ 	  probability: 200	
+ 	- name:	Conakry
+ 	  probability: 200	
+ 	- name:	Copenhagen
+ 	  probability: 200	
+ 	- name:	Cotonou
+ 	  probability: 200	
 name: Worldwide Town Names
 source: null
 subsets: []
