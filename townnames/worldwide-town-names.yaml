@@ -1,0 +1,41 @@
+available: true
+id: 0
+mainset:
+- names:
+  - name: Abidjan
+    probability: 200
+  - name: Abu Dhabi
+    probability: 200
+  - name: Abuja
+    probability: 200
+  - name: Accra
+    probability: 200
+  - name: Addis Ababa
+    probability: 200
+  - name: Algiers
+    probability: 200
+  - name: Amman
+    probability: 200
+  - name: Amsterdam
+    probability: 200
+  - name: Andorra la Vella
+    probability: 200
+  - name: Ankara
+    probability: 200
+  - name: Antananarivo
+    probability: 200
+  - name: Apia
+    probability: 200
+  - name: Ashgabat
+    probability: 200
+  - name: Asmara
+    probability: 200
+  - name: Astana
+    probability: 200
+  - name: Asunción
+    probability: 200
+  - name: Athens
+    probability: 200
+name: Worldwide Town Names
+source: null
+subsets: []
